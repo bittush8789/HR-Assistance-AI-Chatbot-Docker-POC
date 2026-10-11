@@ -66,41 +66,7 @@ The application implements a modular Retrieval-Augmented Generation (RAG) pipeli
 5. **OpenAI**: Provides text embeddings (`text-embedding-3-small`) and inference (`GPT-4o mini`).
 6. **Answer + Source filenames**: Returns an accurate JSON response citing exact source documents (e.g. `leave_policy.txt`).
 
-<details>
-<summary><b>View Mermaid Flowchart</b></summary>
 
-```mermaid
-flowchart TD
-    subgraph Client["Employee / Client"]
-        UserReq["HTTP POST /chat<br/>{question}"]
-    end
-
-    subgraph Container["Docker Container (:8000)"]
-        FastAPI["FastAPI Application (Uvicorn)"]
-        RAG["LangChain RAG Pipeline"]
-        Prompt["Strict Anti-Hallucination Prompt"]
-        VectorDB[("ChromaDB Persistent Store<br/>/app/data/chroma_db")]
-        Docs[("HR Policy Documents<br/>/app/data/documents")]
-    end
-
-    subgraph External["External Cloud APIs"]
-        EmbedAPI["OpenAI text-embedding-3-small"]
-        LLMAPI["OpenAI GPT-4o mini"]
-    end
-
-    UserReq --> FastAPI
-    FastAPI --> RAG
-    RAG -->|Similarity Search| VectorDB
-    Docs -.->|One-time Indexing| EmbedAPI
-    EmbedAPI -.->|Vector Embeddings| VectorDB
-    VectorDB -->|Top-K Policy Chunks| RAG
-    RAG --> Prompt
-    Prompt --> LLMAPI
-    LLMAPI -->|Grounded Answer| FastAPI
-    FastAPI -->|JSON {answer, sources}| UserReq
-```
-
-</details>
 
 ---
 
