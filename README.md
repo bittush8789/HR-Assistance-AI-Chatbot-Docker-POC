@@ -51,6 +51,24 @@ Access the interactive API documentation at **`http://localhost:8000/docs`**.
 
 ## 🏗️ Architecture & Workflow
 
+<div align="center">
+  <img src="docs/architecture.png" alt="HR Assistance AI Chatbot Architecture Workflow" width="850" />
+</div>
+
+<br/>
+
+The application implements a modular Retrieval-Augmented Generation (RAG) pipeline:
+
+1. **Employee / Client**: Sends an HR query through the `POST /chat` endpoint.
+2. **Docker Container**: FastAPI ASGI app running on Uvicorn exposes the REST API on port `8000`.
+3. **LangChain RAG Pipeline**: Handles semantic similarity search, prompt assembly, and anti-hallucination guardrails.
+4. **ChromaDB**: Persistent vector database storing embedded chunks of predefined HR policies.
+5. **OpenAI**: Provides text embeddings (`text-embedding-3-small`) and inference (`GPT-4o mini`).
+6. **Answer + Source filenames**: Returns an accurate JSON response citing exact source documents (e.g. `leave_policy.txt`).
+
+<details>
+<summary><b>View Mermaid Flowchart</b></summary>
+
 ```mermaid
 flowchart TD
     subgraph Client["Employee / Client"]
@@ -82,6 +100,8 @@ flowchart TD
     FastAPI -->|JSON {answer, sources}| UserReq
 ```
 
+</details>
+
 ---
 
 ## 📂 Project Structure
@@ -101,6 +121,7 @@ hr-assistant-poc/
 │   │   └── employee_benefits.txt
 │   └── chroma_db/            # Persistent ChromaDB vector storage (.gitkeep)
 ├── docs/
+│   ├── architecture.png      # High-level architecture workflow diagram
 │   └── STEP_BY_STEP_GUIDE.md # Detailed deployment & Docker Hub push guide
 ├── tests/
 │   ├── __init__.py

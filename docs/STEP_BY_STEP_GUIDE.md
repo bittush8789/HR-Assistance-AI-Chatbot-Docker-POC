@@ -2,6 +2,10 @@
 
 This guide provides end-to-end instructions for building, running, testing, and publishing the HR Assistance AI Chatbot Docker container to **Docker Hub**, as well as pulling and deploying it on any server or workstation.
 
+<div align="center">
+  <img src="architecture.png" alt="HR Assistance AI Chatbot Architecture" width="800" />
+</div>
+
 ---
 
 ## Table of Contents
