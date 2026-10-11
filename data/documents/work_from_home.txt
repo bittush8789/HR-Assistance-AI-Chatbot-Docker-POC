@@ -1,0 +1,38 @@
+================================================================================
+SAMPLE FICTIONAL HR POLICY - FOR PROOF OF CONCEPT (POC) PURPOSES ONLY
+================================================================================
+DOCUMENT: WORK FROM HOME AND HYBRID WORK POLICY (POLICY REF: HR-POL-002)
+EFFECTIVE DATE: JANUARY 1, 2026
+VERSION: 3.0
+APPLICABILITY: ALL REGULAR FULL-TIME EMPLOYEES
+
+1. PURPOSE
+The Work from Home (WFH) policy provides a flexible work framework that balances individual flexibility with in-person team collaboration and operational excellence.
+
+2. ELIGIBILITY AND SCHEDULE
+- Eligibility: Employees who have completed their initial 90-day probationary period and are in good performance standing are eligible for hybrid remote work.
+- Hybrid Model: Employees may work remotely up to three (3) days per week.
+- Anchor Collaboration Days: Tuesdays and Thursdays are designated mandatory in-office collaboration days for all hybrid teams.
+- Fully Remote Exceptions: Fully remote arrangements require formal approval from the VP of the respective business unit and the HR Director.
+
+3. CORE WORKING HOURS AND AVAILABILITY
+- Core Business Hours: All employees must be accessible and responsive via Slack, email, and Google Meet between 10:00 AM and 4:00 PM local time.
+- Status Updates: Employees must update their Slack status and calendar indicating their remote or office working status daily.
+
+4. HOME OFFICE SETUP STIPEND
+- Initial Allowance: A one-time, non-taxable stipend of $500 USD is provided to eligible employees upon joining or transitioning to hybrid work.
+- Permitted Expenses: Ergonomic desk chair, secondary computer monitor, keyboard, mouse, headset, and desk risers.
+- Claims: Claims must be submitted via the company Expense Portal with itemized receipts within 60 days of purchase.
+
+5. EQUIPMENT AND IT SECURITY
+- Company Hardware: The company issues a standardized laptop, power adapters, and peripherals. Personal laptops are strictly prohibited for work-related data access without IT approval.
+- High-Speed Internet: Employees must maintain a reliable home broadband internet connection with a minimum download speed of 50 Mbps and upload speed of 10 Mbps.
+- Virtual Private Network (VPN): Mandatory connection to the company GlobalProtect VPN is required whenever accessing production clusters, internal tools, and client documents.
+- Public Wi-Fi: Working from public Wi-Fi networks (cafes, airports, hotels) is prohibited unless connected via the company VPN.
+
+6. ERGONOMICS AND HEALTH & SAFETY
+- Employees must maintain a dedicated, secure, and ergonomic workspace free from hazards and distractions.
+- Workplace injuries occurring during official working hours in the designated home workspace must be reported to HR within 24 hours.
+
+7. CONTACT
+Questions regarding WFH requests or schedule adjustments should be sent to hr-flexwork@company.local.

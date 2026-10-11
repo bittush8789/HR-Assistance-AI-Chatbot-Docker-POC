@@ -1,0 +1,42 @@
+================================================================================
+SAMPLE FICTIONAL HR POLICY - FOR PROOF OF CONCEPT (POC) PURPOSES ONLY
+================================================================================
+DOCUMENT: EMPLOYEE BENEFITS AND WELLNESS GUIDE (POLICY REF: HR-POL-004)
+EFFECTIVE DATE: JANUARY 1, 2026
+VERSION: 1.8
+APPLICABILITY: ALL REGULAR FULL-TIME EMPLOYEES
+
+1. OVERVIEW
+The company is committed to the total well-being of its employees, encompassing physical health, financial security, continuous professional learning, and mental wellness.
+
+2. HEALTH, DENTAL, AND VISION INSURANCE
+- Eligibility: Comprehensive health coverage begins on the first day of employment (Day 1).
+- Coverage Contributions: The company covers 85% of monthly premiums for employee coverage and 60% of premiums for enrolled dependents (spouses, partners, children).
+- Plans Offered: Choice of High-Deductible Health Plan (HDHP) with Health Savings Account (HSA) contribution, or Preferred Provider Organization (PPO) plan.
+- Annual Open Enrollment: Held each year between November 1st and November 20th for changes effective January 1st.
+
+3. RETIREMENT PLAN (401(k) / PENSION MATCH)
+- Matching Contribution: The company matches 100% of employee 401(k) contributions up to the first 4% of base annual salary.
+- Vesting Schedule: Immediate 100% vesting from the first day of contribution participation.
+- Roth and Traditional options are available through the company investment administrator portal.
+
+4. PROFESSIONAL DEVELOPMENT & EDUCATION STIPEND
+- Annual Budget: Each full-time employee is allocated up to $1,500 USD per calendar year for eligible learning and career development.
+- Eligible Expenses: Technical certifications (e.g., AWS, GCP, CKA, PMP), industry conferences, books, online courses (Coursera, Udemy), and university tuition.
+- Approval: Pre-approval from your manager is required before course or certification purchase.
+
+5. WELLNESS AND GYM SUBSIDY
+- Monthly Allowance: Up to $50 USD per month reimbursable through the wellness portal.
+- Eligible Uses: Gym memberships, yoga studio passes, fitness subscriptions (Peloton, Strava), or mental health and meditation apps (Headspace, Calm).
+
+6. EMPLOYEE ASSISTANCE PROGRAM (EAP)
+- Services: Confidential 24/7 counseling, mental health crisis assistance, dependent care referrals, and legal/financial consultations.
+- Sessions: Up to six (6) free confidential sessions per distinct issue per year for employees and their immediate household members.
+- Contact: Toll-free helpline accessible at 1-800-555-WELL or through eap@company.local.
+
+7. COMMUTER AND TRANSIT BENEFITS
+- Pre-Tax Transit: Employees can elect pre-tax deductions up to IRS statutory maximums for subway, train, and bus passes.
+- In addition, the company provides a direct $50 USD monthly public transit subsidy for employees working out of designated corporate offices.
+
+8. CONTACT
+For benefits questions or enrollment support, email the Benefits Operations Team at hr-benefits@company.local.

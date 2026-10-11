@@ -1,0 +1,21 @@
+services:
+  hr-assistant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hr-assistant-poc:latest
+    container_name: hr-assistant-app
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+      - OPENAI_EMBEDDING_MODEL=${OPENAI_EMBEDDING_MODEL:-text-embedding-3-small}
+    volumes:
+      # Persistent host volume mount for ChromaDB vector embeddings
+      - ./data/chroma_db:/app/data/chroma_db
+      # Mount documents directory in read-only mode
+      - ./data/documents:/app/data/documents:ro
+    restart: unless-stopped

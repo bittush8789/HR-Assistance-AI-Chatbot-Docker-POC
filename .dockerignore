@@ -1,0 +1,35 @@
+# Secrets and local configurations
+.env
+.env.*
+!.env.example
+
+# Git and IDE
+.git
+.gitignore
+.vscode/
+.idea/
+.DS_Store
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# ChromaDB local runtime database files (mounted via volume at runtime)
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+
+# Documentation and temporary files
+*.log
+scratch/
+STRUCTURE.txt

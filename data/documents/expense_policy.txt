@@ -1,0 +1,47 @@
+================================================================================
+SAMPLE FICTIONAL HR POLICY - FOR PROOF OF CONCEPT (POC) PURPOSES ONLY
+================================================================================
+DOCUMENT: BUSINESS TRAVEL AND EXPENSE REIMBURSEMENT POLICY (POLICY REF: HR-POL-003)
+EFFECTIVE DATE: JANUARY 1, 2026
+VERSION: 2.4
+APPLICABILITY: ALL REGULAR FULL-TIME AND CONTRACT EMPLOYEES
+
+1. POLICY OBJECTIVE
+This policy sets standards for incurring, reporting, and reimbursing authorized business-related expenses incurred on behalf of the company.
+
+2. SUBMISSION DEADLINES AND RECEIPTS
+- Submission Window: Expense reports must be submitted within thirty (30) calendar days of incurring the expense. Late submissions past 60 days will not be reimbursed.
+- Itemized Receipts: Itemized digital receipts are mandatory for any expense exceeding $25 USD. Credit card summary slips alone are not acceptable documentation.
+- Currency Conversion: Expenses incurred in foreign currencies will be converted based on the exchange rate date of the transaction.
+
+3. TRAVEL AND TRANSPORTATION
+- Airfare: Domestic flights must be booked in Economy Class. Premium Economy or Business Class is only permitted for continuous intercontinental flights exceeding eight (8) hours, with prior VP approval.
+- Ground Transportation: Employees are encouraged to use public transit, ride-sharing (Uber/Lyft Standard), or licensed taxis. Luxury or premium car classes (e.g., Uber Black) are strictly non-reimbursable.
+- Personal Vehicle Mileage: Reimbursed at the standard rate of $0.67 per mile for approved business travel (excluding daily home-to-office commutes).
+
+4. ACCOMMODATION
+- Standard Rate Cap: Hotel bookings must not exceed $200 USD per night in standard tier cities, and up to $300 USD per night in designated high-cost metropolitan markets (e.g., New York, San Francisco, London, Tokyo).
+- Room Extras: Mini-bar, pay-per-view movies, spa treatments, and room service service fees are strictly personal expenses and not eligible for reimbursement.
+
+5. MEALS AND PER DIEM
+- Travel Daily Limit: Daily meal reimbursement is capped at $75 USD per day during business travel.
+  - Breakfast cap: $15 USD
+  - Lunch cap: $25 USD
+  - Dinner cap: $35 USD
+- Client Entertainment: Entertaining clients or partners requires pre-approval and an itemized receipt listing all attendees and the business purpose.
+- Alcohol Policy: Alcohol purchases are non-reimbursable unless part of an authorized client entertainment dinner pre-approved by a Vice President.
+
+6. APPROVAL LIMITS AND HIERARCHY
+- Up to $1,000 USD: Direct Line Manager approval.
+- $1,001 to $5,000 USD: Department Head / Director approval.
+- Above $5,000 USD: Chief Financial Officer (CFO) approval.
+
+7. NON-REIMBURSABLE EXPENSES
+The following items are never reimbursed:
+- Parking tickets, speeding fines, or traffic violations.
+- Airline seat selection fees or early boarding fees (unless baggage fee related).
+- Personal grooming, dry cleaning (for trips under 5 days), and personal electronics.
+- Lost or stolen personal property.
+
+8. CONTACT
+For expense tool support or reimbursement status, contact Finance & Accounts at finance-expenses@company.local.
